@@ -21,9 +21,9 @@ Users should be able to:
 - Build out the project to the designs provided
 
 ### Screenshot
-[Mobile View](/Results/Mobile%20view.png)
+[Mobile View](./Results/Mobile%20view.png)
 
-[Desktop View](/Results/Desktop%20View.png)
+[Desktop View](./Results/Desktop%20View.png)
 
 ### Links
 
